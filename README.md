@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Kanji Brian
-🌍 Geospatial Data Scientist | 🤖 AI & Machine Learning Enthusiast | 🛰️ Geoinformatics Researcher | 💻 Software Engineer
+🤖 AI & Machine Learning Enthusiast | 🌍 Geospatial Data Scientist | 🛰️ Geoinformatics Researcher | 💻 Software Engineer
 
 - Passionate about building software solutions for spatial data science & software engineering.
 - I’m currently a geospatial data science research officer at ICIPE Kenya.
