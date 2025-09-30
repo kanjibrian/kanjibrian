@@ -2,7 +2,7 @@
 🤖 AI & Machine Learning practitioner | 🌍 Geospatial Data Science | 🛰️ Geoinformatics Researcher | 💻 Software Engineer
 
 - Passionate about building software solutions for AI/ML & spatial data science.
-- I’m currently a geospatial data science research officer at [ICIPE](https://www.icipe.org/) Kenya.
+- I’m currently a geospatial data science research officer at [*icipe*](https://www.icipe.org/) Kenya.
 - I’m looking to collaborate on data science & software engineering projects.
 ---
 
